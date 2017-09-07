@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Memoplus</string>
+    <string name="crime_title_hint">请输入内容。</string>
+    <string name="crime_title_label">内容</string>
+    <string name="crime_details_label">详细信息</string>
+    <string name="crime_solved_label">是否解决</string>
+    <string name="date_picker_title">日期:</string>
+    <string name="new_crime">添加</string>
+    <string name="show_subtitle">显示小标题</string>
+    <string name="hide_subtitle">隐藏小标题</string>
+    <string name="subtitle_format">%1$s条备忘录</string>
+    <string name="crime_suspect_text">选择相关人物</string>
+    <string name="crime_report_text">分享备忘录</string>
+    <string name="crime_report">内容为%1$s的备忘录创建在%2$s,%3$s,%4$s
+</string>
+    <string name="crime_report_solved">此备忘录已解决</string>
+    <string name="crime_report_unsolved">此备忘录未解决</string>
+    <string name="crime_report_no_suspect">没有相关人物</string>
+    <string name="crime_report_suspect">相关人物是%s。</string>
+    <string name="crime_report_subject">详细信息</string>
+    <string name="send_report">分享备忘录</string>
+    <string name="delete_crime">删除备忘录</string>
+    <string name="toast_delete_crime">删除成功！</string>
+</resources>
